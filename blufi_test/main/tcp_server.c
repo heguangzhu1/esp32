@@ -667,7 +667,7 @@ void app_main(void)
 
     tcp_task_he();
     printf("yes ");
-
+    printf("第一次使用GitHub")；
 
 }
 
